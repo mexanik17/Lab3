@@ -178,6 +178,7 @@
             this.brushSize.TabIndex = 1;
             this.brushSize.TickStyle = System.Windows.Forms.TickStyle.Both;
             this.brushSize.Value = 2;
+
             // 
             // groupBox1
             // 
